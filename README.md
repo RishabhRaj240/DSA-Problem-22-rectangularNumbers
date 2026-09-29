@@ -1,0 +1,1 @@
+# DSA-Problem-22-rectangularNumbers
